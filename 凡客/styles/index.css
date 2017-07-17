@@ -1,0 +1,188 @@
+/* ::::: http://cssy.vanclimg.com/css.ashx?href=[/public/autocomplete.css],[/index/global.css,common-header.css,common-footer.css,indexcontentv11.css]&v=20170418102130&compress ::::: */
+
+html { color: rgb(0, 0, 0); background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-family: "Microsoft YaHei"; }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, legend, input, textarea, p, th, td { margin: 0px; padding: 0px; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; color: rgb(51, 51, 51); }
+fieldset, img, input { border: 0px none; }
+li { list-style: outside none none; }
+em, strong, th { font-style: normal; font-weight: normal; }
+input, textarea, select { font-family: inherit; font-size: inherit; font-weight: inherit; }
+input, textarea, select {  }
+table { border-collapse: collapse; border-spacing: 0px; }
+body { font-size: 12px; font-family: "宋体"; color: rgb(51, 51, 51); }
+a:link, a:visited { color: rgb(51, 51, 51); text-decoration: none; }
+a:hover { color: rgb(161, 0, 0); text-decoration: none; }
+a, area {  }
+a:focus { outline: medium none; }
+.publicfooterclear {  }
+.publicfooterclear::after { content: ""; height: 0px; display: block; visibility: hidden; clear: both; }
+.fl { float: left; }
+.fr { float: right; }
+.blank0 { display: block; width: 100%; height: 0px; line-height: 0px; font-size: 0px; clear: both; overflow: hidden; }
+.blank20 { display: block; width: 100%; height: 20px; line-height: 0px; font-size: 0px; clear: both; overflow: hidden; }
+html { color: rgb(0, 0, 0); background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, legend, input, textarea, p, th, td { margin: 0px; padding: 0px; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; color: rgb(51, 51, 51); }
+fieldset, img { border: 0px none; }
+li { list-style: outside none none; }
+em, strong, th { font-style: normal; font-weight: normal; }
+input, textarea, select { font-family: inherit; font-size: inherit; font-weight: inherit; }
+input, textarea, select {  }
+table { border-collapse: collapse; border-spacing: 0px; }
+body { font-size: 12px; font-family: "宋体"; color: rgb(51, 51, 51); }
+a:hover { color: rgb(161, 0, 0); text-decoration: none; }
+a, area {  }
+.clear::after { content: ""; height: 0px; display: block; visibility: hidden; clear: both; }
+.fl { float: left; }
+.fr { float: right; }
+.blank0 { display: block; width: 100%; height: 0px; line-height: 0px; font-size: 0px; clear: both; overflow: hidden; }
+.blank20 { display: block; width: 100%; height: 20px; line-height: 0px; font-size: 0px; clear: both; overflow: hidden; }
+.piclist { width: 1200px; }
+.piclist h2 { text-align: center; line-height: 50px; margin: 30px 0px; font-family: "Microsoft YaHei"; color: rgb(154, 154, 154); font-size: 18px; }
+.getMoney { margin: 45px 0px; }
+.vanclHead { width: 100%; height: auto; }
+.headerTopAreaBox { width: 100%; height: 32px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border-bottom: 1px solid rgb(204, 204, 204); color: rgb(128, 128, 128); }
+.headerTopAreaBox a { color: rgb(128, 128, 128); }
+.headerTopAreaBox a:hover { color: rgb(161, 0, 0); }
+.headerTopArea { width: 100%; height: 31px; background: rgb(247, 247, 247) none repeat scroll 0% 0%; }
+.headerTopArea .headerTop { width: 980px; height: 31px; line-height: 32px; margin: 0px auto; background: rgb(247, 247, 247) none repeat scroll 0% 0%; }
+.headerTopArea .headerTopLeft { min-width: 240px; float: right; }
+.headerTopArea .loginArea { float: left; }
+.headerTopArea .loginArea span { color: rgb(128, 128, 128); }
+.headerTopArea .loginArea a:link, .headerTopArea .loginArea a:visited, .headerTopArea .loginArea a:hover { color: rgb(128, 128, 128); }
+.headerTopArea .recommendArea { margin: 0px 0px 0px 8px; float: left; display: inline; }
+.headerTopArea .recommendArea a { padding-right: 9px; }
+.headerTopArea .headerTopRight { width: 420px; float: right; position: relative; z-index: 9000; }
+.headerTopArea #myVancl, .headerTopArea #vanclMap, .headerTopArea #vanclHelp, .headerTopArea #vanclCustomer { width: 70px; height: 18px; line-height: 18px; margin: 7px 0px 0px; float: left; display: inline; position: relative; z-index: 1000; cursor: pointer; }
+.headerTopArea .mapDropTitle, .headerTopArea .hover .mapDropTitle { background: rgba(0, 0, 0, 0) url('notice.png') no-repeat scroll 0px 0px; width: 55px; padding-left: 26px; text-align: left; }
+.headerTopArea .mapDropTitle { background-position: 0px 0px; display: block; }
+.headerTopArea .payattention { float: right; }
+.payattention em, .payattention a.vanclweibo, .payattention .vweixin { float: left; background: rgba(0, 0, 0, 0) url('vanclsprite.png') no-repeat scroll 0% 0%; margin-top: 4px; }
+.payattention em { background-position: 0px -117px; width: 47px; height: 22px; display: none; }
+.payattention a.vanclweibo, .vweixinbox .vweixin { background-position: -48px -23px; width: 20px; height: 25px; }
+.vweixinbox { float: left; position: relative; }
+.vweixinbox .vweixin { background-position: -24px -23px; float: left; margin-left: 10px; display: inline; cursor: pointer; height: 21px; }
+.vweixinbox .vweixinTip { position: absolute; width: 148px; height: 169px; right: 0px; top: 30px; border: 1px solid rgb(229, 229, 229); background: rgba(0, 0, 0, 0) url('weixin.png') no-repeat scroll 0% 0%; overflow: hidden; display: none; cursor: pointer; z-index: 10000; }
+.vanclLogoSearch { width: 980px; height: 62px; margin: 20px auto 25px; }
+.vanclSearch { width: 438px; padding-top: 8px; }
+.searchTab { height: 29px; }
+.searchTab .Enter { width: 249px; height: 27px; padding: 0px 5px; line-height: 27px; border: 1px solid rgb(201, 202, 202); }
+.searchTab .btn { width: 49px; height: 29px; border: medium none; cursor: pointer; background: rgba(0, 0, 0, 0) url('vanclsprite_001.png') no-repeat scroll -100px 0px; }
+.buycar { width: 105px; height: 27px; border: 1px solid rgb(193, 56, 62); background: rgba(0, 0, 0, 0) url('vanclsprite_001.png') no-repeat scroll -154px 0px; position: relative; z-index: 10; }
+.buycar a.cartab { display: block; padding-left: 39px; padding-top: 6px; font-size: 12px; color: rgb(255, 255, 255); }
+.buycar a.cartab:link, .buycar a.cartab:visited, .buycar a.cartab:hover, .buycar a.cartab:active { color: rgb(255, 255, 255); }
+.searchTab .active { width: 105px; height: 27px; border: 1px solid rgb(193, 56, 62); background: rgba(0, 0, 0, 0) url('vanclsprite_001.png') no-repeat scroll -154px 0px; position: relative; z-index: 10; float: right; }
+.searchTab .active a.cartab { display: block; padding-left: 29px; padding-top: 6px; font-size: 12px; color: rgb(255, 255, 255); }
+.searchTab .active a.cartab:link, .searchTab .active a.cartab:visited, .searchTab .active a.cartab:hover, .searchTab .active a.cartab:active { color: rgb(255, 255, 255); }
+.searchTab .active p a { display: block; padding-left: 39px; padding-top: 6px; font-size: 12px; color: rgb(255, 255, 255); }
+.BuycarTab { width: 315px; height: auto; padding: 5px; border: 1px solid rgb(184, 28, 34); position: absolute; right: -1px; top: 27px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: none; }
+.hotWord { width: 440px; padding-top: 5px; line-height: 18px; color: rgb(114, 113, 113); padding-left: 15px; }
+.hotWord p a { padding-left: 5px; }
+.hotWord p a:link, .hotWord p a:visited, .hotWord p a:hover, .hotWord p a:active { color: rgb(114, 113, 113); margin: 0px 5px 0px 0px; }
+.NavLine { display: block; height: 16px; width: 1px; border-right: 1px solid rgb(136, 136, 136); position: absolute; right: 1px; top: 5px; overflow: hidden; }
+.full .navlist { width: 1000px; height: 22px; margin: 30px auto; padding-left: 200px; position: relative; z-index: 300; }
+.full .navlist ul li { float: left; width: 99px; line-height: 22px; padding: 0px 0px 10px; text-align: center; font-size: 16px; font-family: "Microsoft YaHei"; position: relative; z-index: 220; }
+.full .subNav { width: 99px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; position: absolute; left: -2px; top: 30px; }
+.full .subNav span { display: block; width: 100%; height: 5px; border-top: 5px solid rgb(184, 28, 34); }
+.full .subNav ul { border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentcolor rgb(239, 239, 239) rgb(239, 239, 239); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 10px 0px; }
+.full .subNav ul li { text-align: center; line-height: 35px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; padding: 0px; float: none; font-size: 16px; }
+.full .navlist ul li.none { background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; }
+.full .navlist ul li.vancllogo_Con { position: absolute; left: 0px; bottom: 0px; padding: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; }
+.full .navlist ul li.vancllogo_Con a { display: block; width: 185px; height: 46px; background: rgba(0, 0, 0, 0) url('logo18546.png') no-repeat scroll 0% 0%; }
+.full .navlist ul li a:link, .navlist ul li a:visited, .navlist ul li a:active { color: rgb(114, 113, 113); }
+.full .navlist ul li a:hover { color: rgb(184, 28, 34); }
+.navlist { width: 780px; height: 22px !important; margin: 30px auto !important; padding-left: 200px !important; position: relative !important; z-index: 300 !important; }
+.navlist ul li { float: left; width: 78px; line-height: 22px; padding: 0px 0px 10px; text-align: center; font-size: 16px; font-family: "Microsoft YaHei"; position: relative; z-index: 220; }
+.subNav { width: 78px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; position: absolute; left: -2px; top: 30px; }
+.subNav span { display: block; width: 100%; height: 5px; border-top: 5px solid rgb(184, 28, 34); }
+.subNav ul { border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentcolor rgb(239, 239, 239) rgb(239, 239, 239); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 10px 0px; }
+.subNav ul li { text-align: center; line-height: 35px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; padding: 0px; float: none; font-size: 14px; }
+.navlist ul li.none { background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; }
+.navlist ul li.vancllogo_Con { position: absolute; left: 0px; bottom: 0px; padding: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; width: 100%; }
+.navlist ul li.vancllogo_Con a { display: block; width: 185px; height: 46px; background: rgba(0, 0, 0, 0) url('logo18546.png') no-repeat scroll 0% 0%; }
+.navlist ul li a:link, .navlist ul li a:visited, .navlist ul li a:active { color: rgb(114, 113, 113); }
+.navlist ul li a:hover { color: rgb(184, 28, 34); }
+.vanclFoot { overflow: hidden; width: 980px; height: 282px; margin: 0px auto 25px; border: 1px solid rgb(224, 224, 225); font-family: "Microsoft YaHei"; }
+.vanclFoot ul li { float: left; }
+.vanclCustomer { margin: 33px 0px 23px; overflow: hidden; }
+.vanclCustomer ul li { width: 320px; height: 138px; border-right: 1px solid rgb(224, 224, 225); margin-right: 0px; }
+.vanclCustomer ul li p { text-align: center; font-size: 14px; color: rgb(114, 113, 113); line-height: 26px; }
+.vanclCustomer ul li p img { display: block; margin: 0px auto; }
+.vanclCustomer ul li p.onlineCustomer { margin: 15px auto 30px; }
+.vanclCustomer ul li p.onlineTime { margin: 0px auto; width: 156px; height: 32px; text-align: center; line-height: 32px; font-size: 14px; background: rgb(184, 28, 34) none repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+.vanclCustomer ul li p.seven { margin: 20px 0px; }
+.vanclCustomer ul li.twocode { border-right: medium none; }
+.vanclCustomer ul li.twocode p img { margin-bottom: 10px; }
+.vanclCustomer ul li.twocode p em { color: rgb(161, 0, 0); }
+.vanclOthers { height: 46px; padding: 17px 0px 0px; background: rgb(248, 248, 248) none repeat scroll 0% 0%; width: 95%; margin: 17px auto; }
+.vanclOthers ul li { width: 153px; text-align: center; line-height: 26px; border-right: 1px solid rgb(218, 218, 219); margin-right: 0px; }
+.vanclOthers ul li.none { border-right: medium none; }
+.vanclOthers ul li a:link, .vanclOthers ul li a:visited, .vanclOthers ul li a:hover, .vanclOthers ul li a:active { color: rgb(50, 50, 50); }
+.footBottom { width: 100%; height: auto; margin: 0px auto; border-top: 1px solid rgb(62, 58, 57); }
+.footBottomTab { width: 1200px; height: auto; margin: 10px auto; }
+.footBottomTab p { text-align: center; line-height: 25px; color: rgb(62, 58, 57); font-family: "Microsoft YaHei"; }
+.subFooter { width: 980px; margin: 0px auto 25px; text-align: center; }
+.subFooter a, .subFooter span { margin: 0px 10px; }
+.subFooter .redLogo:link, .subFooter .redLogo:visited, .subFooter .redLogo:hover { background: transparent url('spritesbgtop.png') no-repeat scroll 0px -581px; display: inline-block; height: 42px; width: 113px; }
+.subFooter .costumeOrg { background: transparent url('spritesbgtop.png') no-repeat scroll 0px -629px; display: inline-block; height: 45px; width: 156px; }
+.subFooter .wsjyBzzx:link, .subFooter .wsjyBzzx:visited, .subFooter .wsjyBzzx:hover { background: transparent url('spritesbgtop.png') no-repeat scroll 0px -675px; display: inline-block; height: 42px; width: 96px; }
+.subFooter .vanclMsg:link, .subFooter .vanclMsg:visited, .subFooter .vanclMsg:hover { background: transparent url('spritesbgtop.png') no-repeat scroll -97px -675px; display: inline-block; height: 42px; width: 101px; }
+#footerArea .vanclqingNian:link, #footerArea .vanclqingNian:visited, #footerArea .vanclqingNian:hover { background: transparent url('spritesbgtop.png') no-repeat scroll -202px -675px; display: inline-block; height: 42px; width: 42px; }
+.full .headerTopArea .headerTop { width: 1200px; }
+.full .headerTopArea .headerTopLeft { min-width: 240px; float: right; }
+.full .headerTopArea .recommendArea { margin: 0px 0px 0px 13px; float: left; display: inline; }
+.full .headerTopArea .recommendArea a { padding-right: 14px; }
+.full .headerTopArea .headerTopRight { width: 435px; }
+.full .vanclLogoSearch { width: 1200px; }
+.full .vanclCon { width: 1200px; }
+.full .vanclFocusAd { width: 1200px; }
+.full .vanclFoot { overflow: hidden; width: 1118px; height: 282px; margin: 0px auto 25px; padding: 0px 40px; border: 1px solid rgb(224, 224, 225); font-family: "Microsoft YaHei"; }
+.full .vanclFoot ul li { float: left; }
+.full .vanclCustomer { margin: 33px 0px 23px; overflow: hidden; }
+.full .vanclCustomer ul li { width: 370px; height: 138px; border-right: 1px solid rgb(224, 224, 225); margin-right: 0px; }
+.full .vanclCustomer ul li p { text-align: center; font-size: 14px; color: rgb(114, 113, 113); line-height: 26px; }
+.full .vanclCustomer ul li p img { display: block; margin: 0px auto; }
+.full .vanclCustomer ul li p.onlineCustomer { margin: 15px auto 30px; }
+.full .vanclCustomer ul li p.onlineTime { margin: 0px auto; width: 156px; height: 32px; text-align: center; line-height: 32px; font-size: 14px; background: rgb(184, 28, 34) none repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+.full .vanclCustomer ul li p.seven { margin: 20px 0px; }
+.full .vanclCustomer ul li.twocode { border-right: medium none; }
+.full .vanclCustomer ul li.twocode p img { margin-bottom: 10px; }
+.full .vanclCustomer ul li.twocode p em { color: rgb(161, 0, 0); }
+.full .vanclOthers { height: 26px; padding: 17px 0px 14px; background: rgb(248, 248, 248) none repeat scroll 0% 0%; width: 100%; margin: 0px; }
+.full .vanclOthers ul li { padding: 0px 65px; line-height: 26px; border-right: 1px solid rgb(218, 218, 219); width: auto; text-align: center; margin-right: 0px; }
+.full .vanclOthers ul li.none { border-right: medium none; }
+.full .vanclOthers ul li a:link, .vanclOthers ul li a:visited, .vanclOthers ul li a:hover, .vanclOthers ul li a:active { color: rgb(50, 50, 50); }
+img { display: block; }
+.vanclCon { width: 980px; height: auto; margin: 0px auto; overflow: hidden; }
+.vanclFocusAd { width: 710px; }
+.vanclFocus { width: 1200px; height: 535px; overflow: hidden; position: relative; z-index: 5; }
+.foucsTab { width: 710px; height: 535px; }
+.foucsTab ul li { width: 1200px; height: 535px; }
+.foucsTab ul li a { width: 100%; height: 100%; display: block; }
+.foucsTab .rslides_tabs { height: 12px; position: absolute; right: 46%; top: 500px; z-index: 10; overflow: hidden; }
+.foucsTab .rslides_tabs li { width: 12px; height: 12px; overflow: hidden; float: left; display: inline; margin-right: 8px; cursor: pointer; background: rgb(221, 221, 221) none repeat scroll 0% 0%; border-radius: 12px; }
+.foucsTab .rslides_tabs li.rslides_here { background: rgb(161, 0, 0) none repeat scroll 0% 0%; }
+.foucsTab .rslides_tabs a { display: block; width: 12px; height: 12px; line-height: 0px; overflow: hidden; font-size: 0px; }
+.BayWindow { width: 73px; height: 205px; border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(184, 27, 34) rgb(184, 27, 34) currentcolor; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; margin-bottom: 30px; }
+.BayWindow ul li { width: 73px; border-bottom: 1px solid rgb(184, 27, 34); }
+.BayWindow ul li a { display: block; width: 73px; }
+.BayWindow ul li.downApp a { height: 76px; background: rgba(0, 0, 0, 0) url('baywindow.png') no-repeat scroll -1px -1px; }
+.BayWindow ul li.online a { height: 71px; background: rgba(0, 0, 0, 0) url('baywindow.png') no-repeat scroll -1px -78px; }
+.BayWindow ul li.BlackTop a { height: 55px; background: rgba(0, 0, 0, 0) url('baywindow.png') no-repeat scroll -1px -149px; }
+.foucsTab .prev, .foucsTab .next { cursor: pointer; height: 60px; width: 28px; z-index: 10; text-indent: -9999px; display: inline-block; }
+.foucsTab .prev { background: rgba(0, 0, 0, 0) url('focus_lr0918.png') no-repeat scroll 0px 0px; left: 10px; position: absolute; top: 230px; }
+.foucsTab .prev:hover { background: rgba(0, 0, 0, 0) url('focus_lr0918.png') no-repeat scroll 0px -61px; }
+.foucsTab .next { background: rgba(0, 0, 0, 0) url('focus_lr0918.png') no-repeat scroll -52px 0px; position: absolute; right: 10px; top: 230px; }
+.foucsTab .next:hover { background: rgba(0, 0, 0, 0) url('focus_lr0918.png') no-repeat scroll -52px -61px; }
+.shangzhuanglist_top {  }
+.getMoney { margin: 20px 0px; }
+.shangzhuanglist { overflow: hidden; }
+.shangzhuanglist ul li { float: left; margin-right: 17px; display: inline; }
+.shangzhuanglist ul li.pic_one { width: 590px; }
+.shangzhuanglist ul li.pic_two { width: 290px; }
+.shangzhuanglist ul li.pic_three { width: 286px; }
+.shangzhuanglist ul li div { margin-bottom: 16px; }
+.shangzhuanglist ul li h3, .kuzhuanglist ul li h3 { height: 28px; padding: 20px 12px; line-height: 28px; border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentcolor rgb(232, 231, 236) rgb(232, 231, 236); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; font-family: "Microsoft YaHei"; font-size: 14px; }
+.shangzhuanglist ul li h3 span, .kuzhuanglist ul li h3 span { float: right; color: rgb(161, 0, 0); font-family: Arial; line-height: 24px; font-size: 14px; }
+.shangzhuanglist ul li h3 span em, .kuzhuanglist ul li h3 span em { font-size: 16px; padding-left: 10px; }
+.shangzhuanglist_top {  }
